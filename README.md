@@ -1,2 +1,2 @@
 # Astrophysics
- Astrophysics assignments and projects
+ NCSSM PH4180 AstroPhysics Assignments

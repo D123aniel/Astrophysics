@@ -6,3 +6,5 @@ Tools Used
 - Python
 - NumPy
 - Matplotlib
+
+Base code provided by Dr. Kyle Slinker from the North Carolina School of Science and Mathematics in Durham, NC
